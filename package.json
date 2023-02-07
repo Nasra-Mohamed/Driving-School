@@ -1,0 +1,23 @@
+{
+  "name": "dashboard1",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@mui/styles": "^5.11.2",
+    "axios": "^1.2.2",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^6.8.2",
+    "mui-datatables": "^4.2.2",
+    "nodemon": "^2.0.20",
+    "react-icons": "^4.7.1",
+    "react-scripts": "^5.0.1"
+  }
+}
